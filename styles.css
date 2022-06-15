@@ -1,0 +1,28 @@
+body{
+  margin:0;
+  text-align: center;
+  background-color: #FEFBE7;
+
+}
+h1{
+  margin-top:0;
+  color: #66BFBF;
+}
+
+.topcontianer{
+font-family: 'Lobster', cursive;
+display:inline-block; 
+}
+.firstbackgroundimage{
+  position: absolute;
+  top:0;
+  left:0;
+ display:block;
+}
+.imageofmyself{
+  width:20%;
+  height:20%;
+}
+h3{
+  color:#11999E;
+}
